@@ -86,6 +86,7 @@ namespace Microsoft.Unity.VisualStudio.Editor
 			}
 			catch (Exception)
 			{
+				// abandon legacy check
 			}
 		}
 
