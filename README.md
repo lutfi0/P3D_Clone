@@ -1,4 +1,4 @@
-# Unity Game P3D_Clone
+# Unity Game Picker3D_Clone
 Picker3D Clone Unity Game (Unity 2020.3.32.f1)
 
 What is Picker3D?
